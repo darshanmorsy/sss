@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    flex: 1;
+    height: 100vh;
+}
+
+.header {
+    background: white;
+    height: min-content;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    box-shadow:  0 0 0 1px rgba(17, 20, 24, 0.15);
+}
